@@ -1,0 +1,108 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.hal{
+	margin-right: 10%;
+	margin-left: 10%;
+	width: 80%;
+}
+
+.logo img{
+	width: 140px;
+}
+
+.nav ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: plum;
+}
+
+.nav li{
+	float: left;
+}
+
+.nav li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding:14px 16px;
+	text-decoration: none;
+}
+.nav li a:hover{
+	background-color: pink;
+}
+
+.gambar img{
+	background-image: red;
+	border-bottom: 10px solid salmon;
+	border-top: 10px solid violet;
+	margin-top: 20px;
+}
+
+.penulis {
+	text-align: justify;
+	width: 30%;
+	float: right;
+	
+}
+
+.penulis h4 {
+	padding-bottom: 0;
+
+}
+
+.penulis p {
+	padding-bottom: 20px;
+}
+
+.penulis p img{
+	float: left;
+	width: 100px;
+	height: 110px;
+	padding-right: 10px;
+	padding-top: : -20px;
+
+}
+
+.judul{
+	width: 69%;
+	text-align: justify;
+	float: left;
+}
+
+.judul .syahdam{
+	margin-top: -25px;
+	font-size: 15px;
+}
+
+.konten{
+	margin-top: 20px;
+	font-size: 17px;
+}
+
+.konten p{
+	font-size: 17px;
+}
+
+.footer{
+	margin-top: 480px;
+	background-color: black;
+	height: 25px;
+	text-align: center;
+	color: white;
+	position: bottom;
+}
+
+footer{
+	background-color: black;
+	color: white;
+	height: 25px;
+	position: top;
+	margin-top: 700px;
+	text-align: center;
+
+}
